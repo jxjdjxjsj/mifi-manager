@@ -3,6 +3,7 @@
 一个用于管理随身 WiFi / 移动路由器的 Android 应用。直接访问设备局域网管理页面，读取网络状态、流量、已连接设备等信息，并提供重启、关机、测速与外观设置。
 
 - 开源仓库：[github.com/jxjdjxjsj/mifi-manager](https://github.com/jxjdjxjsj/mifi-manager)
+- 下载安装：[GitHub Release v1.0.0](https://github.com/jxjdjxjsj/mifi-manager/releases/tag/v1.0.0)
 - 包名：`com.admi.mifi`
 - 最低系统：Android 8.0（API 26）
 - 目标系统：Android 16（API 36）
