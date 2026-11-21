@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Wi-Fi waves -->
+    <path
+        android:pathData="M43,38 A16,16 0 0,1 65,38"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent" />
+    <path
+        android:pathData="M35,30 A27,27 0 0,1 73,30"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:fillColor="@android:color/transparent" />
+    <path
+        android:pathData="M54,42 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"
+        android:fillColor="#FFFFFF" />
+    <!-- Router body -->
+    <path
+        android:pathData="M32,58 L76,58 A7,7 0 0,1 83,65 L83,74 A7,7 0 0,1 76,81 L32,81 A7,7 0 0,1 25,74 L25,65 A7,7 0 0,1 32,58 Z"
+        android:fillColor="#FFFFFF" />
+    <!-- Status lights -->
+    <path android:pathData="M34,69 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" android:fillColor="#3568F4" />
+    <path android:pathData="M45,69 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" android:fillColor="#3568F4" />
+    <path android:pathData="M56,69 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" android:fillColor="#3568F4" />
+</vector>
